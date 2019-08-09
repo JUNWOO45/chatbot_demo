@@ -1,0 +1,25 @@
+{
+  "name": "chatbot_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JUNWOO45/chatbot_demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JUNWOO45/chatbot_demo/issues"
+  },
+  "homepage": "https://github.com/JUNWOO45/chatbot_demo#readme",
+  "dependencies": {
+    "@slack/client": "^5.0.2",
+    "botkit": "^4.5.0",
+    "slackbots": "^1.2.0"
+  }
+}
